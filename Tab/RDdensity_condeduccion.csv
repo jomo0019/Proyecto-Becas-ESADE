@@ -1,0 +1,12 @@
+RD Density Results
+                    ,res,,,,
+                    ,hLeft,hRight,NObsLeft,NObsRight,pvalue
+c1_res_symbw_p1     ,0.073,0.073,2409,6598,0.000
+c1_unres_symbw_p1   ,0.032,0.032,1060,5386,0.668
+c1_unres_asymbw_p1  ,0.085,0.025,2856,5151,0.241
+c2_res_symbw_p1     ,0.112,0.112,6242,8049,0.695
+c2_unres_symbw_p1   ,0.024,0.024,1566,1644,0.717
+c2_unres_asymbw_p1  ,0.037,0.027,2252,1857,0.968
+c3_res_symbw_p1     ,0.080,0.080,3906,5288,0.745
+c3_unres_symbw_p1   ,0.021,0.021,1156,1251,0.983
+c3_unres_asymbw_p1  ,0.037,0.022,1990,1328,0.971
